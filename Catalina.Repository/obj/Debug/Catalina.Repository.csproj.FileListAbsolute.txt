@@ -1,0 +1,15 @@
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\bin\Debug\Catalina.Repository.dll.config
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\bin\Debug\Catalina.Repository.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\bin\Debug\Catalina.Repository.pdb
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\bin\Debug\Catalina.Entities.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\bin\Debug\EntityFramework.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\bin\Debug\Catalina.Entities.pdb
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\bin\Debug\EntityFramework.xml
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\obj\Debug\Catalina.Repository.csprojResolveAssemblyReference.cache
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\obj\Debug\Catalina.Repository.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\obj\Debug\Catalina.Repository.pdb
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\obj\Debug\Catalina.Repository.Migrations.initial.resources
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\obj\Debug\Catalina.Repository.csproj.GenerateResource.Cache
+D:\dev\github\dotnet\entity-framework-6\Catalina.Repository\obj\Debug\Catalina.Repository.Migrations.skywardsnumber.resources

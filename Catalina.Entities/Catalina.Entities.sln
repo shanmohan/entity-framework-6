@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalina.Entities", "Catalina.Entities.csproj", "{344478CF-1E12-499A-8C69-54821F899F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalina.Repository", "..\Catalina.Repository\Catalina.Repository.csproj", "{D94178C8-7CFF-4D33-A430-B1D9CF5D11DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalina.Console", "..\Catalina.Console\Catalina.Console.csproj", "{C0B07C56-05AB-45B7-B174-74C013C9415B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{344478CF-1E12-499A-8C69-54821F899F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344478CF-1E12-499A-8C69-54821F899F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344478CF-1E12-499A-8C69-54821F899F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344478CF-1E12-499A-8C69-54821F899F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94178C8-7CFF-4D33-A430-B1D9CF5D11DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94178C8-7CFF-4D33-A430-B1D9CF5D11DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94178C8-7CFF-4D33-A430-B1D9CF5D11DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94178C8-7CFF-4D33-A430-B1D9CF5D11DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B07C56-05AB-45B7-B174-74C013C9415B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B07C56-05AB-45B7-B174-74C013C9415B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B07C56-05AB-45B7-B174-74C013C9415B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B07C56-05AB-45B7-B174-74C013C9415B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

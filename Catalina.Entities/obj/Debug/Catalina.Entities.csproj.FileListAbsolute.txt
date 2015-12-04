@@ -1,0 +1,4 @@
+D:\dev\github\dotnet\entity-framework-6\Catalina.Entities\bin\Debug\Catalina.Entities.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Entities\bin\Debug\Catalina.Entities.pdb
+D:\dev\github\dotnet\entity-framework-6\Catalina.Entities\obj\Debug\Catalina.Entities.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Entities\obj\Debug\Catalina.Entities.pdb

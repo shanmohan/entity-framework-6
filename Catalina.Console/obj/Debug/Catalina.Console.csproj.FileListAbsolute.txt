@@ -1,0 +1,14 @@
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\Catalina.Console.exe.config
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\Catalina.Console.exe
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\Catalina.Console.pdb
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\Catalina.Entities.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\Catalina.Repository.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\EntityFramework.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\Catalina.Entities.pdb
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\Catalina.Repository.pdb
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\EntityFramework.xml
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\obj\Debug\Catalina.Console.csprojResolveAssemblyReference.cache
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\obj\Debug\Catalina.Console.exe
+D:\dev\github\dotnet\entity-framework-6\Catalina.Console\obj\Debug\Catalina.Console.pdb
